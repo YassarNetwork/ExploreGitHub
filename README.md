@@ -1,4 +1,4 @@
 # ExploreGitHub
 Lets explore Git Hub
 
-How it looks
+Modifying Read ne file. lets see how it comes out in hitory
